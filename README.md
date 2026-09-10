@@ -1,2 +1,6 @@
 # na-chk-pricing-payment-processor-job
-checkout / standard / na
+
+Team: **checkout**  
+Tier: **standard**  
+Region: **na**  
+Synthetic demo repo for the Domo governance platform.
